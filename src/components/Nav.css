@@ -1,0 +1,18 @@
+
+
+@media screen and (max-width: 500px) {
+
+   
+
+    .nav-links {
+        display:inline-table;     
+    }
+
+    li {
+        
+        margin-top: 10px;
+    }
+ 
+
+
+}

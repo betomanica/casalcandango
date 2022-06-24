@@ -1,0 +1,45 @@
+.page {
+    justify-content: left;
+    text-align: left;
+    padding-bottom: 7%;
+        
+}
+
+h2{
+   
+    color: black;
+}
+
+.whats {
+    color: midnightblue;
+}
+
+
+@media screen and (max-width: 500px) {
+
+    .email{
+        width: 20px;
+    }
+
+    .whatsapp{
+        width: 20px;
+    }
+
+
+}
+
+@media screen and (max-width: 2000px) {
+
+    .page {
+        padding-bottom: 19%;
+    }
+
+}
+
+@media screen and (max-width: 992px) {
+
+    .page {
+        padding-bottom: 10%;
+    }
+
+}
